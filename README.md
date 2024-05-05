@@ -58,7 +58,8 @@ endmodule
 
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
-![image](https://github.com/vikamuhan-reddy/D-FLIPDLOP-NEGEDGE/assets/144928933/cf20568a-5fb7-4ad2-8d3a-f5b1e03d413c)
+![image](https://github.com/vikamuhan-reddy/D-FLIPDLOP-NEGEDGE/assets/144928933/33b79fb3-d98b-4a42-9498-0e24b86e7d0c)
+
 
 
 **RESULTS**
